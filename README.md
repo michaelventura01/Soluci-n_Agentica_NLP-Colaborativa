@@ -45,3 +45,5 @@ fitness_recommender/
 ├── requirements.txt
 └── README.md
 ```
+
+https://colab.research.google.com/drive/1ODWUKy_2JLNpQfXDpPefaKex__KuF80w#scrollTo=ASOpKXIjklvv
